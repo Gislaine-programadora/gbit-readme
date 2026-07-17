@@ -1,0 +1,25 @@
+{
+  "name": "gbit-readme",
+  "version": "1.0.0",
+  "description": "Analisa seu projeto e gera um README.md profissional automaticamente.",
+  "type": "module",
+  "bin": {
+    "gbit-readme": "bin/gbit-readme.js"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "ora": "^8.0.1",
+    "figlet": "^1.7.0",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^12.6.3"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Gislaine-programadora",
+  "license": "MIT"
+}
