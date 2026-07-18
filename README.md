@@ -3,9 +3,6 @@
 
 
 
-
-
-
 <div align="center">
 
 ![gbit-readme](./assets/logo.png)
