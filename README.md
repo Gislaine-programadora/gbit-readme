@@ -1,3 +1,6 @@
+    <img width="599" height="162" alt="image" src="https://github.com/user-attachments/assets/876df6a0-f3d6-428f-b918-9c1f5afc5afc" />
+
+
 <div align="center">
 
 ![gbit-readme](./assets/logo.png)
