@@ -1,23 +1,23 @@
-   <img width="599" height="162" alt="image" src="https://github.com/user-attachments/assets/1a145b8c-ae42-4b2b-af81-28661d02689f" />
-
-
-
-
 <div align="center">
 
-![gbit-readme](./assets/logo.png)
+<img src="./assets/logo.png" alt="GBIT README" width="600"/>
+
+<br><br>
 
 ![version](https://img.shields.io/badge/VERSION-1.0.0-0078D4?style=for-the-badge)
 ![node](https://img.shields.io/badge/NODE.JS-18+-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/NPM-Package-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![license](https://img.shields.io/badge/LICENSE-MIT-4CAF50?style=for-the-badge)
 
 # 📝 gbit-readme
 
-**Analisa qualquer projeto e gera um README.md profissional, automaticamente.**
+### Analisa qualquer projeto e gera um **README.md** profissional automaticamente.
 
-Sem preencher formulário, sem escrever do zero — o CLI lê seu `package.json` e sua estrutura de pastas, e entrega um README pronto pra revisar e enviar pro GitHub.
+Sem preencher formulário, sem escrever do zero — o CLI lê seu **package.json** e toda a estrutura do projeto para gerar um README moderno, organizado e pronto para publicar no GitHub.
 
-📦 [Pacote no NPM](https://www.npmjs.com/package/gbit-readme) · 💻 [Repositório no GitHub](https://github.com/Gislaine-programadora)
+📦 **NPM:** https://www.npmjs.com/package/gbit-readme
+
+💻 **GitHub:** https://github.com/Gislaine-programadora/gbit-readme
 
 </div>
 
