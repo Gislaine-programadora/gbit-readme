@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="GBIT README" width="600"/>
+<img src="./image.png" alt="GBIT README" width="600"/>
 
 <br><br>
 
